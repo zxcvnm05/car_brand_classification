@@ -1,4 +1,3 @@
-# car_brand_classification
 # Car Brand Classification Based on Customer and Vehicle Attributes
 
 ## 📌 Executive Summary
